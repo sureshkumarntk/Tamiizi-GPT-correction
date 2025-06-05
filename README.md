@@ -1,1 +1,1 @@
-# Tamiizi-GPT-correction
+# Tamizi-GPT-correction
